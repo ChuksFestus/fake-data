@@ -14,13 +14,46 @@
 			"id": 2,
 			"picture": "https://randomuser.me/api/portraits/med/men/31.jpg",
 			"name": "Ervin Howell",
-			"enrollment": "23:08:18",
+			"enrollment": "20:07:18",
 			"company": "Deckow-Crist",
 			"progress": 20,
 			"login": "21rd June 2018",
 			"time": "1:45"
 		}
 	],
-	"comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+	"activities": [
+		{
+			"name": "Heidi Mendoza",
+			"activity": "Commented on",
+			"image": "https://randomuser.me/api/portraits/women/59.jpg",
+			"course": "introduction to HTML",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
+		},
+		{
+			"name": "Melvin Payne",
+			"activity": "Posted on",
+			"image": "https://randomuser.me/api/portraits/women/59.jpg",
+			"course": "Management",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
+		},
+		{
+			"name": "Ryan Olson",
+			"activity": "Commented on",
+			"image": "https://randomuser.me/api/portraits/men/38.jpg",
+			"course": "introduction to HTML",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
+		},
+		{
+			"name": "Elsie Richardson",
+			"activity": "Posted on",
+			"image": "https://randomuser.me/api/portraits/women/42.jpg",
+			"course": "UI/UX",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
+		}
+	],
 	"profile": { "name": "typicode" }
 }
